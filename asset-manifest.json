@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/gokarnagallery/static/css/main.a794fe09.css",
+    "main.js": "/gokarnagallery/static/js/main.186565da.js",
+    "static/media/tanuj_1.jpg": "/gokarnagallery/static/media/tanuj_1.0d38331cde520d10ff1b.jpg",
+    "static/media/mirjan_1.jpeg": "/gokarnagallery/static/media/mirjan_1.ac48fa5b2db1c5ceca0e.jpeg",
+    "static/media/group_2.jpeg": "/gokarnagallery/static/media/group_2.4c4d91c7be4440d674f7.jpeg",
+    "static/media/tanuj_5.jpeg": "/gokarnagallery/static/media/tanuj_5.e96a2bc55768415ca2aa.jpeg",
+    "static/media/parnika_2.jpeg": "/gokarnagallery/static/media/parnika_2.07fb69d15011527279bb.jpeg",
+    "static/media/anvitha_3.jpeg": "/gokarnagallery/static/media/anvitha_3.8e4c10982d32501de27c.jpeg",
+    "static/media/yana_4.jpeg": "/gokarnagallery/static/media/yana_4.dba8e71de5797edfdf32.jpeg",
+    "static/media/disha_1.jpeg": "/gokarnagallery/static/media/disha_1.fd965d33740bfe31004c.jpeg",
+    "static/media/group_5.jpeg": "/gokarnagallery/static/media/group_5.cd23b60c096f8a0a4ece.jpeg",
+    "static/media/disha_2.jpeg": "/gokarnagallery/static/media/disha_2.80d768e0b165e9d24bc2.jpeg",
+    "static/media/anvitha_1.jpeg": "/gokarnagallery/static/media/anvitha_1.cd7dff220074099ef21c.jpeg",
+    "static/media/yana_1.jpeg": "/gokarnagallery/static/media/yana_1.8c50bc1098482329c02d.jpeg",
+    "static/media/group_1.jpeg": "/gokarnagallery/static/media/group_1.62ec1bd56fe9aaca903c.jpeg",
+    "static/media/parnika_1.jpeg": "/gokarnagallery/static/media/parnika_1.3d2fe656e0d375634844.jpeg",
+    "static/media/group_6.jpeg": "/gokarnagallery/static/media/group_6.d7bc1a3b78ce4ca9a185.jpeg",
+    "static/media/anvitha_2.jpeg": "/gokarnagallery/static/media/anvitha_2.df2a5c03577cf029a0b8.jpeg",
+    "static/media/anvitha_6.jpeg": "/gokarnagallery/static/media/anvitha_6.47ada4a89dbe571562c7.jpeg",
+    "static/media/group_3.jpeg": "/gokarnagallery/static/media/group_3.e912ec210c8d3d10dde8.jpeg",
+    "static/media/group_4.jpeg": "/gokarnagallery/static/media/group_4.b935afd9cab2e8b46e1f.jpeg",
+    "index.html": "/gokarnagallery/index.html",
+    "main.a794fe09.css.map": "/gokarnagallery/static/css/main.a794fe09.css.map",
+    "main.186565da.js.map": "/gokarnagallery/static/js/main.186565da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a794fe09.css",
+    "static/js/main.186565da.js"
+  ]
+}
