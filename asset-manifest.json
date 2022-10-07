@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gokarnagallery/static/css/main.a794fe09.css",
+    "main.css": "/gokarnagallery/static/css/main.21230ab0.css",
     "main.js": "/gokarnagallery/static/js/main.186565da.js",
     "static/media/tanuj_1.jpg": "/gokarnagallery/static/media/tanuj_1.0d38331cde520d10ff1b.jpg",
     "static/media/mirjan_1.jpeg": "/gokarnagallery/static/media/mirjan_1.ac48fa5b2db1c5ceca0e.jpeg",
@@ -22,11 +22,11 @@
     "static/media/group_3.jpeg": "/gokarnagallery/static/media/group_3.e912ec210c8d3d10dde8.jpeg",
     "static/media/group_4.jpeg": "/gokarnagallery/static/media/group_4.b935afd9cab2e8b46e1f.jpeg",
     "index.html": "/gokarnagallery/index.html",
-    "main.a794fe09.css.map": "/gokarnagallery/static/css/main.a794fe09.css.map",
+    "main.21230ab0.css.map": "/gokarnagallery/static/css/main.21230ab0.css.map",
     "main.186565da.js.map": "/gokarnagallery/static/js/main.186565da.js.map"
   },
   "entrypoints": [
-    "static/css/main.a794fe09.css",
+    "static/css/main.21230ab0.css",
     "static/js/main.186565da.js"
   ]
 }
