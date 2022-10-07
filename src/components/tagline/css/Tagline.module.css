@@ -1,0 +1,32 @@
+.taglineContainer{
+    position: absolute;
+    background-color: transparent;
+    color: white;
+    font-size: 21px;
+    font-weight: 300;
+    margin:18px 18px 0 18px;
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    opacity: 0;
+    animation-name: fadeInUp;
+}
+
+.tagline2{
+    font-size: 36px;
+    font-weight: 300;
+    background-color: transparent;
+    word-break: break-all;
+    word-spacing: 100vw;
+    margin-top: 12px;
+}
+
+@keyframes fadeInUp {
+    from {
+        transform: translate3d(0,40px,0)
+    }
+
+    to {
+        transform: translate3d(0,0,0);
+        opacity: 1
+    }
+}

@@ -1,0 +1,68 @@
+.allPicsContainer{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 100%;
+    gap:7px;
+    padding-top: 72px;
+}
+
+img{
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    opacity: 0;
+    animation-name: fadeInUp;
+}
+
+.picsRowContainer{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    gap:7px;
+    justify-content: space-between;
+}
+
+.imageContainer{
+    width: 49%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.imageContainer img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    margin:3.5px 0px;
+}
+
+.imageContainer1{
+    margin-top: 72px;
+}
+
+.imageContainerVertical{
+    width: 100%;
+}
+
+.imageContainerVertical img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    margin:0px 0px;
+}
+
+/* .imageContainer2{
+    padding-bottom: 36px;
+} */
+
+@keyframes fadeInUp {
+    from {
+        transform: translate3d(0,60px,0)
+    }
+
+    to {
+        transform: translate3d(0,0,0);
+        opacity: 1
+    }
+}

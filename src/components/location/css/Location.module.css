@@ -1,0 +1,32 @@
+.locationContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap:16px;
+    margin-top: 24px;
+}
+
+.locationItemContainer{
+    width: 175px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background-color: #202020;
+}
+.locationItemContainer img{
+    width: 175px;
+    height: 175px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.locationItemText{
+    color:white;
+    text-align: center;
+    background-color: #202020;
+    border-radius: 10px;
+    padding:4px 0px;
+}
