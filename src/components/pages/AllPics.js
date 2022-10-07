@@ -3,8 +3,6 @@ import classes from './css/AllPics.module.css';
 import Anvitha_1 from '../../assets/images/anvitha_1.jpeg';
 import Anvitha_2 from '../../assets/images/anvitha_2.jpeg';
 import Anvitha_3 from '../../assets/images/anvitha_3.jpeg';
-import Anvitha_4 from '../../assets/images/anvitha_4.jpeg';
-import Anvitha_5 from '../../assets/images/anvitha_5.jpeg';
 import Anvitha_6 from '../../assets/images/anvitha_6.jpeg';
 import Disha_1 from '../../assets/images/disha_1.jpeg';
 import Disha_2 from '../../assets/images/disha_2.jpeg';
@@ -14,18 +12,12 @@ import Group_3 from '../../assets/images/group_3.jpeg';
 import Group_4 from '../../assets/images/group_4.jpeg';
 import Group_5 from '../../assets/images/group_5.jpeg';
 import Group_6 from '../../assets/images/group_6.jpeg';
-import Group_9 from '../../assets/images/group_9.jpeg';
 import Parnika_1 from '../../assets/images/parnika_1.jpeg';
 import Parnika_2 from '../../assets/images/parnika_2.jpeg';
 import Mirjan_1 from '../../assets/images/mirjan_1.jpeg';
-import Mirjan_2 from '../../assets/images/mirjan_2.jpeg';
-import Mirjan_3 from '../../assets/images/mirjan_3.jpeg';
-import Mirjan_4 from '../../assets/images/mirjan_4.jpeg';
 import Tanuj_1 from '../../assets/images/tanuj_1.jpg';
 import Tanuj_5 from '../../assets/images/tanuj_5.jpeg';
 import Yana_1 from '../../assets/images/yana_1.jpeg';
-import Yana_2 from '../../assets/images/yana_2.jpeg';
-import Yana_3 from '../../assets/images/yana_3.jpeg';
 import Yana_4 from '../../assets/images/yana_4.jpeg';
 
 
