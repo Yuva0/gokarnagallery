@@ -9,6 +9,7 @@
     animation-fill-mode: both;
     opacity: 0;
     animation-name: fadeInUp;
+    z-index: 2;
 }
 
 .tagline2{
