@@ -1,1 +1,1 @@
-Check the website out at https://github.com/Yuva0/gokarnagallery
+Check the website out at https://yuva0.github.io/gokarnagallery/
